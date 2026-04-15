@@ -18,3 +18,6 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed minor edge case in input handling
 - Noted known limitation in docs
 - Ran linter, applied auto-fixes
+
+## 2026-04-15
+- Resolved TODO items from previous session
